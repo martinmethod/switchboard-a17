@@ -17,6 +17,10 @@
     "url": "http://www.martinmetodiev.com"
   },
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martinmethod/a17.git"
+  },
   "ports": {
     "dev": 8000,
     "prod": 9000
